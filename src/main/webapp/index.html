@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anibal Serviços</title>
+    <link rel="stylesheet" href="css/index.css">
+    <!-- Ícones (Font Awesome e Phosphor) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="site-wrapper"> <!-- toda página -->
+
+        <header class="main-header"> <!--Menu do cabeçalho-->
+            <div class="logo-area">
+                <img src="img/img39.png" alt="Logo Anibal Serviços">
+                <div class="logo-text">
+                    <h1>ANIBAL <span>SERVIÇOS</span></h1>
+                    <small>Lda · Transporte & Estaleiro</small>
+                </div>
+            </div>
+
+            <nav class="top-nav" id="topNav">
+                <ul>
+                    <li><a href="#"><i class="fas fa-home"></i> Início</a></li>
+                    <li><a href="#"><i class="fas fa-cog"></i> Serviços</a></li>
+                    <li><a href="#"><i class="fas fa-table"></i> Tabela</a></li>
+                    <li><a href="#"><i class="fas fa-images"></i> Galeria</a></li>
+                    <li><a href="#"><i class="fas fa-comment-dots"></i> Depoimentos</a></li>
+                    <li><a href="#"><i class="fas fa-info-circle"></i> Sobre</a></li>
+                    <li><a href="#"><i class="fas fa-envelope"></i> Contacto</a></li>
+                    <li><a href="#"><i class="fas fa-sign-in-alt"></i> Entrar</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <!-- Card sobre a empresa (fora da div com slideshow) -->
+            <div class="card-about">
+                <p style="font-weight: 600; font-size: 1.5rem; color: #0D4057; margin-bottom: 0.5rem;">📋 Sobre a Empresa</p>
+                <p>
+                    Somos uma empresa especializada no transporte e fornecimento de materiais de construção.<br>
+                    Atendemos obras de pequeno, médio e grande porte, oferecendo serviços de transporte, carregamento e entrega de materiais diretamente no local da obra.
+                </p>
+                <p>
+                    Além do transporte, também possuímos um estaleiro com diversos materiais disponíveis para venda, como blocos, bambus, estacas, barrotes, tijolos, areia e pedra.
+                </p>
+                <!-- pequeno detalhe visual com ícones -->
+                <div class="highlight-list">
+                    <span><i class="ph ph-cube"></i> blocos</span>
+                    <span><i class="ph ph-plant"></i> bambus</span>
+                    <span><i class="ph ph-tent"></i> estacas</span>
+                    <span><i class="ph ph-rows"></i> barrotes</span>
+                    <span><i class="ph ph-square"></i> tijolos</span>
+                    <span><i class="ph ph-drop"></i> areia</span>
+                    <span><i class="ph ph-mountains"></i> pedra</span>
+                </div>
+            </div>
+
+            <!-- DIV que contém o slideshow como fundo e o conteúdo por cima -->
+            <div class="minha-div">
+                <!-- Camada de fundo (slideshow) -->
+                <div class="slideshow-fundo">
+                    <div class="slide" style="background-image: url('img/img1.jpeg');"></div>
+                    <div class="slide" style="background-image: url('img/img3.jpeg');"></div>
+                    <div class="slide" style="background-image: url('img/img35.jpeg');"></div>
+                    <div class="overlay-azul"></div> <!-- Vinheta azul -->
+                </div>
+
+                <!-- Camada de conteúdo (fica por cima) -->
+                <div class="conteudo">
+                    <section class="services">
+                        <h2>Nossos Serviços</h2>
+                        <div class="cards">
+                            <div class="card">
+                                <h3>Transporte de Materiais</h3>
+                                <p>Transporte seguro de pedra, areia, saibro, blocos e outros materiais de construção.</p>
+                            </div>
+                            <div class="card">
+                                <h3>Carregamento</h3>
+                                <p>Carregamento eficiente de materiais com equipamentos adequados para obras e construções.</p>
+                            </div>
+                            <div class="card">
+                                <h3>Entrega em Obras</h3>
+                                <p>Entrega rápida e organizada diretamente no local da construção.</p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="materials">
+                        <h2>Materiais Disponíveis</h2>
+                        <div class="cards">
+                            <div class="card">
+                                <h3>Pedra</h3>
+                                <p>Pedra para construção e fundação.</p>
+                            </div>
+                            <div class="card">
+                                <h3>Areia</h3>
+                                <p>Areia para construção, reboco e fundações.</p>
+                            </div>
+                            <div class="card">
+                                <h3>Saibro</h3>
+                                <p>Material usado em nivelamento e preparação de terreno.</p>
+                            </div>
+                            <div class="card">
+                                <h3>Blocos e Tijolos</h3>
+                                <p>Blocos e tijolos para construção de paredes.</p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="yard">
+                        <div class="container">
+                            <h2>Nosso Estaleiro</h2>
+                            <p>
+                                No nosso estaleiro temos uma grande variedade de materiais
+                                prontos para venda e transporte. Trabalhamos com blocos,
+                                tijolos, bambus, estacas e barrotes utilizados em diferentes
+                                tipos de construção.
+                            </p>
+                        </div>
+                    </section>
+
+                    <section class="why">
+                        <h2>Por Que Escolher Nossa Empresa</h2>
+                        <div class="cards">
+                            <div class="card">
+                                <h3>Experiência</h3>
+                                <p>Anos de experiência no transporte de materiais.</p>
+                            </div>
+                            <div class="card">
+                                <h3>Rapidez</h3>
+                                <p>Entregas rápidas e organizadas.</p>
+                            </div>
+                            <div class="card">
+                                <h3>Confiança</h3>
+                                <p>Trabalho sério e compromisso com os clientes.</p>
+                            </div>
+                        </div>
+                    </section>
+                </div> <!-- fim .conteudo -->
+            </div> <!-- fim .minha-div -->
+
+            <section class="cta">
+                <h2>Precisa de materiais ou transporte?</h2>
+                <p>Entre em contacto connosco e solicite um orçamento.</p>
+                <a href="#" class="btn">Contactar</a>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <div class="footer-container">
+                <div class="footer-col">
+                    <h3>Anibal Serviços Ltd.</h3>
+                    <p>Soluções empresariais de alta qualidade para impulsionar o sucesso do seu negócio.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Links Rápidos</h4>
+                    <ul>
+                        <li><a href="index.html">Início</a></li>
+                        <li><a href="about.html">Sobre Nós</a></li>
+                        <li><a href="services.html">Serviços</a></li>
+                        <li><a href="gallery.html">Galeria</a></li>
+                        <li><a href="contact.html">Contato</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Serviços</h4>
+                    <ul>
+                        <li>Transporte de Cargas (Leves ou Pesadas)</li>
+                        <li>Carregamento de Materiais de Construção (pedra, areia, blocos, etc)</li>
+                        <li>Estaleiro (venda de blocos, tijolos, estacas, bambus)</li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contato</h4>
+                    <p>(+255) 85 57 12 857</p>
+                    <p>josedasilvaaj39@gmail.com</p>
+                    <p>Chimoio, Manica - Moçambique</p>
+                    <p>Horário: Segunda-feira a Sábado: 6h às 18h</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2026 Anibal Serviços Ltd</p>
+            </div>
+        </footer>
+
+    </div> <!-- fim .site-wrapper -->
+
+ <script src="js/script.js"></script>
+     <!-- Opcional: Phosphor Icons (caso queira usar os ícones do highlight-list) -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</body>
+</html>>
