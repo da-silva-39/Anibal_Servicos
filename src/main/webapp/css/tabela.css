@@ -3,20 +3,7 @@
 /* Usando as variáveis globais do site */
 
 /* ===== VARIÁVEIS DE RESPONSIVIDADE ===== */
-:root {
-    --container-padding-mobile: 1rem;
-    --container-padding-tablet: 1.5rem;
-    --container-padding-desktop: 2rem;
-    --hero-padding-mobile: 1.5rem;
-    --hero-padding-tablet: 2rem;
-    --hero-padding-desktop: 3rem;
-    --card-padding-mobile: 1.2rem;
-    --card-padding-tablet: 1.5rem;
-    --card-padding-desktop: 2rem;
-    --font-size-h1-mobile: 1.8rem;
-    --font-size-h1-tablet: 2.2rem;
-    --font-size-h1-desktop: 2.8rem;
-}
+
 
 /* ===== CONTAINER PRINCIPAL ===== */
 .precos-container {

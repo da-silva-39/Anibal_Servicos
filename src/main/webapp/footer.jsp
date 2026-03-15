@@ -43,6 +43,7 @@
 
  <script src="js/script.js"></script>
  <script src="js/tabela.js"></script>
+ <script src="js/galeria.js"></script>
      <!-- Opcional: Phosphor Icons (caso queira usar os ícones do highlight-list) -->
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
 </body>
