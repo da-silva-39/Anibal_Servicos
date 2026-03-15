@@ -8,7 +8,6 @@
     <title>Anibal Serviços</title>
     <link rel="stylesheet" href="css/header.css">
     
-    <link rel="stylesheet" href="css/comum.css">
     ${param.cssExtra}  <!-- recebe parâmetro da página chamadora -->
     
     <!-- Ícones (Font Awesome e Phosphor) -->
@@ -38,9 +37,8 @@
 
             <nav class="top-nav" id="topNav">
                 <ul>
-                    <li><a href="#"><i class="fas fa-home"></i> Início</a></li>
-                    <li><a href="#"><i class="fas fa-cog"></i> Serviços</a></li>
-                    <li><a href="#"><i class="fas fa-table"></i> Tabela</a></li>
+                    <li><a href="index.jsp"><i class="fas fa-home"></i> Início</a></li>
+                    <li><a href="tabela.jsp"><i class="fas fa-table"></i> Tabela</a></li>
                     <li><a href="#"><i class="fas fa-images"></i> Galeria</a></li>
                     <li><a href="#"><i class="fas fa-comment-dots"></i> Depoimentos</a></li>
                     <li><a href="#"><i class="fas fa-info-circle"></i> Sobre</a></li>
@@ -50,4 +48,3 @@
             </nav>
         </header>
 
-        <main>

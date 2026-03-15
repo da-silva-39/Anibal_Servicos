@@ -4,6 +4,7 @@
     <jsp:param name="cssExtra" value='<link rel="stylesheet" href="css/index.css">' />
 </jsp:include>
  <!-- Card sobre a empresa (fora da div com slideshow) -->
+ 		<main>
             <div class="card-about">
                 <p style="font-weight: 600; font-size: 1.5rem; color: #0D4057; margin-bottom: 0.5rem;">📋 Sobre a Empresa</p>
                 <p>
