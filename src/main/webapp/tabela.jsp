@@ -20,7 +20,7 @@
                         <span class="stat-label">Capacidade</span>
                     </div>
                     <div class="stat-item">
-                        <span class="stat-value">24h</span>
+                        <span class="stat-value">24h a 48h</span>
                         <span class="stat-label">Entrega</span>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                             <span class="item-desc">Dimensões: 10x20x40</span>
                         </div>
                         <div class="item-price-wrapper">
-                            <span class="item-price">17 MT</span>
+                            <span class="item-price">18 MT</span>
                             <span class="item-unit">por unidade</span>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                             <span class="item-desc">Dimensões: 12x20x40</span>
                         </div>
                         <div class="item-price-wrapper">
-                            <span class="item-price">19 MT</span>
+                            <span class="item-price">20 MT</span>
                             <span class="item-unit">por unidade</span>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                             <span class="item-desc">Dimensões: 15x20x40</span>
                         </div>
                         <div class="item-price-wrapper">
-                            <span class="item-price">21 MT</span>
+                            <span class="item-price">22 MT</span>
                             <span class="item-unit">por unidade</span>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                             <span class="item-desc">Entulho/aterro</span>
                         </div>
                         <div class="item-price-wrapper">
-                            <span class="item-price">2.800 MT</span>
+                            <span class="item-price">3000 MT</span>
                             <span class="item-unit">por m³</span>
                         </div>
                     </div>
@@ -192,7 +192,7 @@
                         </div>
                         <div class="item-price-wrapper">
                             <span class="item-price">5.500 MT</span>
-                            <span class="item-unit">por m³</span>
+                            <span class="item-unit">Por carada</span>
                         </div>
                     </div>
                     <div class="item-row" data-item="pedra 2/5">
@@ -202,7 +202,7 @@
                         </div>
                         <div class="item-price-wrapper">
                             <span class="item-price">6.000 MT</span>
-                            <span class="item-unit">por m³</span>
+                            <span class="item-unit">Por carada</span>
                         </div>
                     </div>
                     <div class="item-row" data-item="pedra 1/5">
@@ -212,7 +212,7 @@
                         </div>
                         <div class="item-price-wrapper">
                             <span class="item-price">7.000 MT</span>
-                            <span class="item-unit">por m³</span>
+                            <span class="item-unit">Por carada</span>
                         </div>
                     </div>
                     <div class="item-row" data-item="pedra fina brita normal">
@@ -222,7 +222,7 @@
                         </div>
                         <div class="item-price-wrapper">
                             <span class="item-price">8.000 MT</span>
-                            <span class="item-unit">por m³</span>
+                            <span class="item-unit">Por carada</span>
                         </div>
                     </div>
                     <div class="item-row" data-item="pedra fina brita zembe">
@@ -232,7 +232,7 @@
                         </div>
                         <div class="item-price-wrapper">
                             <span class="item-price">12.000 MT</span>
-                            <span class="item-unit">por m³</span>
+                            <span class="item-unit">Por carada</span>
                         </div>
                     </div>
                 </div>
@@ -260,7 +260,7 @@
                             <span class="item-desc">Diâmetro: 5-8cm</span>
                         </div>
                         <div class="item-price-wrapper">
-                            <span class="item-price">120 MT</span>
+                            <span class="item-price">150 MT</span>
                             <span class="item-unit">por unidade</span>
                         </div>
                     </div>
@@ -287,7 +287,7 @@
                     <div class="item-row" data-item="estacas grossas">
                         <div class="item-info">
                             <span class="item-name">ESTACAS GROSSAS</span>
-                            <span class="item-desc">Diâmetro: 15-20cm</span>
+                            <span class="item-desc">Diâmetro: 14-19cm</span>
                         </div>
                         <div class="item-price-wrapper">
                             <span class="item-price">500 MT</span>
@@ -297,11 +297,11 @@
                     <div class="item-row" data-item="bambus">
                         <div class="item-info">
                             <span class="item-name">BAMBUS</span>
-                            <span class="item-desc">Tratados, 3-4m</span>
+                            <span class="item-desc">Tratados, 6 a 8m</span>
                         </div>
                         <div class="item-price-wrapper">
                             <span class="item-price">150 MT</span>
-                            <span class="item-unit">por unidade</span>
+                            <span class="item-unit">Por Conjunto de 5 bambus</span>
                         </div>
                     </div>
                 </div>
@@ -366,19 +366,19 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr><td>Blocos</td><td>Bloco 10</td><td>17 MT</td><td>un</td><td><span class="table-badge">frete grátis*</span></td></tr>
-                        <tr><td>Blocos</td><td>Bloco 12</td><td>19 MT</td><td>un</td><td><span class="table-badge">frete grátis*</span></td></tr>
-                        <tr><td>Blocos</td><td>Bloco 15</td><td>21 MT</td><td>un</td><td><span class="table-badge">frete grátis*</span></td></tr>
+                        <tr><td>Blocos</td><td>Bloco 10</td><td>18 MT</td><td>un</td><td><span class="table-badge">frete grátis*</span></td></tr>
+                        <tr><td>Blocos</td><td>Bloco 12</td><td>20 MT</td><td>un</td><td><span class="table-badge">frete grátis*</span></td></tr>
+                        <tr><td>Blocos</td><td>Bloco 15</td><td>22 MT</td><td>un</td><td><span class="table-badge">frete grátis*</span></td></tr>
                         <tr><td>Blocos</td><td>Tijolo Queimado</td><td>9 MT</td><td>un</td><td><span class="table-badge">frete grátis*</span></td></tr>
-                        <tr><td>Areia</td><td>Areia Fina</td><td>2.500 MT</td><td>m³</td><td><span class="table-badge">transporte incluso</span></td></tr>
-                        <tr><td>Areia</td><td>Areia Vermelha</td><td>2.800 MT</td><td>m³</td><td><span class="table-badge">transporte incluso</span></td></tr>
-                        <tr><td>Areia</td><td>Areia Grossa Branca</td><td>2.800 MT</td><td>m³</td><td><span class="table-badge">transporte incluso</span></td></tr>
-                        <tr><td>Areia</td><td>Areia Grossa Rio</td><td>3.000 MT</td><td>m³</td><td><span class="table-badge">transporte incluso</span></td></tr>
-                        <tr><td>Pedra</td><td>Pedra Grossa (Rachão)</td><td>5.500 MT</td><td>m³</td><td><span class="table-badge">transporte incluso</span></td></tr>
-                        <tr><td>Pedra</td><td>Pedra 2/5</td><td>6.000 MT</td><td>m³</td><td><span class="table-badge">transporte incluso</span></td></tr>
-                        <tr><td>Pedra</td><td>Pedra 1/5</td><td>7.000 MT</td><td>m³</td><td><span class="table-badge">transporte incluso</span></td></tr>
-                        <tr><td>Pedra</td><td>Pedra Fina Brita</td><td>8.000 MT</td><td>m³</td><td><span class="table-badge">transporte incluso</span></td></tr>
-                        <tr><td>Pedra</td><td>Pedra Fina Zembe</td><td>12.000 MT</td><td>m³</td><td><span class="table-badge">transporte incluso</span></td></tr>
+                        <tr><td>Areia</td><td>Areia Fina</td><td>2.500 MT</td><td>carada</td><td><span class="table-badge">transporte incluso</span></td></tr>
+                        <tr><td>Areia</td><td>Areia Vermelha</td><td>3.000 MT</td><td>carada</td><td><span class="table-badge">transporte incluso</span></td></tr>
+                        <tr><td>Areia</td><td>Areia Grossa Branca</td><td>2.800 MT</td><td>carada</td><td><span class="table-badge">transporte incluso</span></td></tr>
+                        <tr><td>Areia</td><td>Areia Grossa Rio</td><td>3.000 MT</td><td>carada</td><td><span class="table-badge">transporte incluso</span></td></tr>
+                        <tr><td>Pedra</td><td>Pedra Grossa (Rachão)</td><td>5.500 MT</td><td>carada</td><td><span class="table-badge">transporte incluso</span></td></tr>
+                        <tr><td>Pedra</td><td>Pedra 2/5</td><td>6.000 MT</td><td>carada</td><td><span class="table-badge">transporte incluso</span></td></tr>
+                        <tr><td>Pedra</td><td>Pedra 1/5</td><td>7.000 MT</td><td>carada</td><td><span class="table-badge">transporte incluso</span></td></tr>
+                        <tr><td>Pedra</td><td>Pedra Fina Brita</td><td>8.000 MT</td><td>carada</td><td><span class="table-badge">transporte incluso</span></td></tr>
+                        <tr><td>Pedra</td><td>Pedra Fina Zembe</td><td>12.000 MT</td><td>carada</td><td><span class="table-badge">transporte incluso</span></td></tr>
                         <tr><td>Estacas</td><td>Estacas Finas</td><td>120 MT</td><td>un</td><td>—</td></tr>
                         <tr><td>Estacas</td><td>Estacas Semi-Médias</td><td>250 MT</td><td>un</td><td>—</td></tr>
                         <tr><td>Estacas</td><td>Estacas Médias</td><td>350 MT</td><td>un</td><td>—</td></tr>
@@ -387,7 +387,7 @@
                     </tbody>
                 </table>
             </div>
-            <p class="table-footnote">* Transporte grátis para compras acima de 500 blocos</p>
+            <p class="table-footnote">* Transporte grátis de blocos para compras acima de 500 blocos</p>
         </div>
 
     <jsp:include page="footer.jsp" />

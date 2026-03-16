@@ -44,8 +44,7 @@
                     <li><a href="index.jsp"><i class="fas fa-home"></i> Início</a></li>
                     <li><a href="tabela.jsp"><i class="fas fa-table"></i> Tabela</a></li>
                     <li><a href="galeria.jsp"><i class="fas fa-images"></i> Galeria</a></li>
-                    <li><a href="#"><i class="fas fa-comment-dots"></i> Depoimentos</a></li>
-                    <li><a href="#"><i class="fas fa-info-circle"></i> Sobre</a></li>
+                    <li><a href="sobre.jsp"><i class="fas fa-info-circle"></i> Sobre</a></li>
                     <li><a href="#"><i class="fas fa-envelope"></i> Contacto</a></li>
                     <li><a href="#"><i class="fas fa-sign-in-alt"></i> Entrar</a></li>
                 </ul>

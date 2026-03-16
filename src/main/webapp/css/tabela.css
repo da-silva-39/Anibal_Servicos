@@ -485,13 +485,13 @@ th {
 td {
     padding: 0.7rem;
     border-bottom: 1px solid rgba(255,255,255,0.1);
-    color: var(--text-light);
+    color: yellow;
     white-space: nowrap;
 }
 
 .table-badge {
     background: var(--accent-light);
-    color: var(--dark-blue);
+    color: black;
     padding: 0.15rem 0.5rem;
     border-radius: 30px;
     font-size: 0.7rem;
@@ -502,7 +502,6 @@ td {
 .table-footnote {
     margin-top: 0.8rem;
     font-size: 0.8rem;
-    color: var(--text-light);
     opacity: 0.7;
     font-style: italic;
     line-height: 1.4;

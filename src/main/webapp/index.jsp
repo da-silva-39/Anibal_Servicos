@@ -6,7 +6,7 @@
  <!-- Card sobre a empresa (fora da div com slideshow) -->
  		<main>
             <div class="card-about">
-                <p style="font-weight: 600; font-size: 1.5rem; color: #0D4057; margin-bottom: 0.5rem;">📋 Sobre a Empresa</p>
+                <p style="font-weight: 600; font-size: 1.5rem; color: #0D4057; margin-bottom: 0.5rem;">📋 Anibal Servi&ccedil;os</p>
                 <p>
                     Somos uma empresa especializada no transporte e fornecimento de materiais de construção.<br>
                     Atendemos obras de pequeno, médio e grande porte, oferecendo serviços de transporte, carregamento e entrega de materiais diretamente no local da obra.

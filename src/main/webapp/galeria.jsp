@@ -14,11 +14,11 @@
             <div class="header-stats">
                 <div class="stat-chip">
                     <i class="ph ph-camera"></i>
-                    <span>40+ Fotos</span>
+                    <span>28 Fotos</span>
                 </div>
                 <div class="stat-chip">
                     <i class="ph ph-video"></i>
-                    <span>7 Vídeos</span>
+                    <span>6 Vídeos</span>
                 </div>
             </div>
         </div>
