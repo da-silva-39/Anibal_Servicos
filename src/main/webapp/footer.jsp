@@ -45,8 +45,8 @@
  <script src="js/tabela.js"></script>
  <script src="js/galeria.js"></script>
  <script src="js/sobre.js"></script>
- 
-     <!-- Opcional: Phosphor Icons (caso queira usar os ícones do highlight-list) -->
-    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+ <script src="js/contacto.js"></script>
+     
+ <script src="https://unpkg.com/@phosphor-icons/web"></script>
 </body>
 </html>>

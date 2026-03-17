@@ -113,7 +113,7 @@
             <section class="cta">
                 <h2>Precisa de materiais ou transporte para constru&ccedil;&atilde;o?</h2>
                 <p>Entre em contacto connosco e agende o seu or&ccedil;amento e prazo, o resto deixe conosco.</p>
-                <a href="#" class="btn">Contactar</a>
+                <a href="contacto.jsp" class="btn">Contactar</a>
             </section>
             
             
