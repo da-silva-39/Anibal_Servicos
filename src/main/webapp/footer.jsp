@@ -12,10 +12,10 @@
                     <h4>Links Rápidos</h4>
                     <ul>
                         <li><a href="index.jsp">Início</a></li>
-                        <li><a href="index.jsp">Sobre Nós</a></li>
-                        <li><a href="index.jsp">Serviços</a></li>
-                        <li><a href="index.jsp">Galeria</a></li>
-                        <li><a href="index.jsp">Contato</a></li>
+                        <li><a href="tabela.jsp">Tabela</a></li>
+                        <li><a href="galeria.jsp">Galeria</a></li>
+                        <li><a href="sobre.jsp">Sobre Nós</a></li>
+                        <li><a href="contacto.jsp">Contacto</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
@@ -45,8 +45,7 @@
  <script src="js/tabela.js"></script>
  <script src="js/galeria.js"></script>
  <script src="js/sobre.js"></script>
- <script src="js/contacto.js"></script>
-     
+ <script src="${pageContext.request.contextPath}/js/contacto.js"></script>     
  <script src="https://unpkg.com/@phosphor-icons/web"></script>
 </body>
 </html>>
